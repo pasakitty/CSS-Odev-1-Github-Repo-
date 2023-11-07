@@ -1,0 +1,38 @@
+body{
+    background-color: lightblue;
+}
+
+header{
+    background-color: crimson;
+    
+}
+
+li{
+    color:aliceblue;
+}
+ 
+
+h1{
+    text-transform: uppercase;
+    color:blue;
+    font-size:40px;
+}
+
+h2{
+    color:blueviolet;
+    font-size: 30px;
+}
+
+h3{
+    color:darkred;
+    font-size: 22px;
+}
+
+p{
+    color:darkgreen;
+    font-size:16px;
+}
+
+footer{
+    background-color: crimson;
+}
